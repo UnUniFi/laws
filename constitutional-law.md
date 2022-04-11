@@ -7,7 +7,7 @@
 
 ## Simplicity of laws
 
-- The law of UnUniFi must be simple and easy. Diffuicult law must lead to the divided society in DAO.
+- The law of UnUniFi must be simple and easy. Difficult law must lead to the divided society in DAO.
 
 ## Law amendment
 
