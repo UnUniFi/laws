@@ -11,4 +11,4 @@
 
 ## Law amendment
 
-- The changes of laws must be displayed with Pull Requests.
+- The changes of laws must be displayed with [Pull Requests](https://github.com/UnUniFi/laws/pulls).
