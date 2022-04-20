@@ -12,3 +12,11 @@
 ## Law amendment
 
 - The changes of laws must be displayed with [Pull Requests](https://github.com/UnUniFi/laws/pulls).
+
+## Ethics
+
+- No spam
+- No scam
+- No racism
+- No gore pictures
+- Be respectful
