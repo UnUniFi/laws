@@ -16,4 +16,4 @@
 
 ## Rewards
 
-- Some rewards in GUU token probably occur to `@moderators` after this community get developed well.
+- Rewards in GUU token occur to `@moderators` following to the EXP points of MEE6.
