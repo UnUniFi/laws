@@ -16,7 +16,7 @@
   - Total amount for distribution will be adjusted every season.
 - `@moderators` can write "A moderator of UnUniFi season 0x*" in your profile or your history for self-branding.
 
-## Obligation
+## Obligations
 
 - `@moderators` have to configure two factor authorization (2FA).
 - There is no requirements something like "How long moderators have to stay in the server."
