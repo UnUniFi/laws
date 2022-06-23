@@ -12,12 +12,9 @@
 
 ## Rights
 
-- `@moderators` can write "A moderator of UnUniFi season 0x*" in your profile or your history for self-branding.
-
-## Rewards
-
-- Rewards in GUU token occur to `@moderators` following to the EXP points of MEE6.
+- `@moderators` can get reward by GUU token following to the EXP points of MEE6.
   - Total amount for distribution will be adjusted every season.
+- `@moderators` can write "A moderator of UnUniFi season 0x*" in your profile or your history for self-branding.
 
 ## Obligation
 
