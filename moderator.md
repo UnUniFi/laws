@@ -17,8 +17,10 @@
 ## Rewards
 
 - Rewards in GUU token occur to `@moderators` following to the EXP points of MEE6.
+  - Total amount for distribution will be adjusted every season.
 
 ## Obligation
 
+- `@moderators` have to configure two factor authorization (2FA).
 - There is no requirements something like "How long moderators have to stay in the server."
-- Of course inactive moderators will be not elected in next moderators election.
+  - Of course inactive moderators will be not elected in next moderators election.
