@@ -17,3 +17,8 @@
 ## Rewards
 
 - Rewards in GUU token occur to `@moderators` following to the EXP points of MEE6.
+
+## Obligation
+
+- There is no requirements something like "How long moderators have to stay in the server."
+- Of course inactive moderators will be not elected in next moderators election.
